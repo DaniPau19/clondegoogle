@@ -22,5 +22,8 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## Objetivo del proyecto
+## 3. Objetivo del proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3
+
+## 4. Link a Demo
+Aquí pueden visualizar el proyecto terminado: [Clonación de Google] (clongooogle.netlify.app)
