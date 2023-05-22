@@ -3,9 +3,9 @@
 ## ÍNDICE
 
 * [1. Intro  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#1-intro) 
-* [1. Qué contruí  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#2-qu%C3%A9-contru%C3%AD) 
-* [1. Objetivo del proyecto  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#objetivo-del-proyecto) 
-* [1. Link a Demo] (https://clongooogle.netlify.app)
+* [2. Qué contruí  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#2-qu%C3%A9-contru%C3%AD) 
+* [3. Objetivo del proyecto  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#objetivo-del-proyecto) 
+* [4. Link a Demo] (#)
 
 ****
 
