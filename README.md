@@ -5,6 +5,7 @@
 * [1. Intro  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#1-intro) 
 * [1. Qué contruí  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#2-qu%C3%A9-contru%C3%AD) 
 * [1. Objetivo del proyecto  ](https://github.com/DaniPau19/clondegoogle/blob/main/README.md#objetivo-del-proyecto) 
+* [1. Link a Demo] (https://clongooogle.netlify.app)
 
 ****
 
@@ -26,4 +27,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3
 
 ## 4. Link a Demo
-Aquí pueden visualizar el proyecto terminado: [Clonación de Google] (clongooogle.netlify.app)
+Aquí pueden visualizar el proyecto terminado: [Clonación de Google] (https://clongooogle.netlify.app)
